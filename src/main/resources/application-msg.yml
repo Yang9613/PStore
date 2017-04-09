@@ -1,0 +1,9 @@
+error:
+  login:
+    msg: 用户名或密码错误
+  register:
+       pwd: 密码不一致
+       xm: 姓名不能为空
+       email: 邮箱格式错误
+       category: 必须选你喜欢的宠物
+       all: 注册失败
